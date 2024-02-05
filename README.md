@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝗠𝗔𝗛𝗧𝗢+𝗔𝗡𝗝𝗔𝗟𝗜+𝗚𝗶𝘁𝗛𝘂𝗯!;𝗜+𝗔𝗺+𝗠𝘀+𝗔𝗡𝗝𝗔𝗟𝗜+𝗧𝗚!;𝗜+𝗔𝗺+𝗝𝘂𝘀𝘁+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+𝗕𝗼𝘁+𝗠𝗮𝗸𝗲𝗿!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝗠𝗔𝗛𝗧𝗢+𝗔𝗡𝗝𝗔𝗟𝗜+𝗚𝗶𝘁𝗛𝘂𝗯!;𝗜+𝗔𝗺+𝗠𝗶𝘀𝘀+𝗔𝗡𝗝𝗔𝗟𝗜+𝗧𝗚!;𝗜+𝗔𝗺+𝗝𝘂𝘀𝘁+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+𝗕𝗼𝘁+𝗠𝗮𝗸𝗲𝗿!)</p>
 <p align="center">
 
 
