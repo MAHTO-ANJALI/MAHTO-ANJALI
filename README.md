@@ -17,7 +17,7 @@
 • 𝚆𝚘𝚛𝚔 : 𝚂𝚝𝚞𝚍𝚢 𝙸𝚗 𝚍𝚎𝚐𝚛𝚎𝚎 2 𝚢𝚎𝚊𝚛
 <p align="left">
 - 𝙼𝚘𝚜𝚝 𝙰𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
-<h1> <img src="https://te.legra.ph/file/3e2dabed4c479e0842cdf.jpg" height="90px" width="80px"> ʜᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴍᴀʜᴛᴏ ᴀɴᴊᴀʟɪ</h1>
+<h1> <img src="https://te.legra.ph/file/ad4e3f7bfb68de7bebe76.jpg" height="90px" width="80px"> ʜᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴍᴀʜᴛᴏ ᴀɴᴊᴀʟɪ</h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/MAHTOXANJALI/count.svg" />
@@ -31,7 +31,7 @@
 
 [<img src="https://raw.githubusercontent.com/MAHTOXANJALI/MAHTOANJALI/master/resources/hr.gif"/>](https://github.com/MAHTOXANJALI)
 
-<h1> <img src="https://te.legra.ph/file/3e2dabed4c479e0842cdf.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="[https://te.legra.ph/file/3e2dabed4c479e0842cdf.jpg](https://te.legra.ph/file/ad4e3f7bfb68de7bebe76.jpg)" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class MAHTO():
@@ -63,7 +63,7 @@ class MAHTO():
 
 [<img src="https://github.com/MAHTOXANJALI/MAHTOANJALI/blob/master/resources/hr.gif"/>](https://github.com/https://github.com/MAHTOXANJALI)
 
-<h1> <img src="https://te.legra.ph/file/3e2dabed4c479e0842cdf.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="[https://te.legra.ph/file/3e2dabed4c479e0842cdf.jpg](https://te.legra.ph/file/ad4e3f7bfb68de7bebe76.jpg)" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://raw.githubusercontent.com/MAHTOXANJALI/MAHTOANJALI/master/resources/telegram_icon.png" width="60px">](https://t.me/QUEENx_GOD) [<img src="https://raw.githubusercontent.com/MAHTOXANJALI/MAHTOANJALI/master/resources/github_icon.png" width="60px">](https://github.com/MAHTOXANJALI) [<img src="https://raw.githubusercontent.com/MAHTOXANJALI/MAHTOANJALI/master/resources/youtube_icon.png" width="60px">](https://youtube.com/@QUEENx_GOD) [<img src="https://github.com/MAHTOXANJALI/MAHTOANJALI/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/@QUEENx_GOD)
 
