@@ -26,7 +26,7 @@
 [<img src="https://github.com/MAHTOXANJALI/MAHTOANJALI/blob/master/resources/hr.gif"/>](https://github.com/MAHTOXANJALI)
 
 <p align="center">
-<img src="https://te.legra.ph/file/3e2dabed4c479e0842cdf.jpg">
+<img src="https://te.legra.ph/file/ad4e3f7bfb68de7bebe76.jpg">
 </p>
 
 [<img src="https://raw.githubusercontent.com/MAHTOXANJALI/MAHTOANJALI/master/resources/hr.gif"/>](https://github.com/MAHTOXANJALI)
@@ -63,7 +63,7 @@ class MAHTO():
 
 [<img src="https://github.com/MAHTOXANJALI/MAHTOANJALI/blob/master/resources/hr.gif"/>](https://github.com/https://github.com/MAHTOXANJALI)
 
-<h1> <img src="[https://te.legra.ph/file/ad4e3f7bfb68de7bebe76.jpg](https://te.legra.ph/file/ad4e3f7bfb68de7bebe76.jpg)" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="[https://te.legra.ph/file/ad4e3f7bfb68de7bebe76.jpg]" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://raw.githubusercontent.com/MAHTOXANJALI/MAHTOANJALI/master/resources/telegram_icon.png" width="60px">](https://t.me/QUEENx_GOD) [<img src="https://raw.githubusercontent.com/MAHTOXANJALI/MAHTOANJALI/master/resources/github_icon.png" width="60px">](https://github.com/MAHTOXANJALI) [<img src="https://raw.githubusercontent.com/MAHTOXANJALI/MAHTOANJALI/master/resources/youtube_icon.png" width="60px">](https://youtube.com/@QUEENx_GOD) [<img src="https://github.com/MAHTOXANJALI/MAHTOANJALI/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/@QUEENx_GOD)
 
