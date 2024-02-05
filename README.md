@@ -31,7 +31,7 @@
 
 [<img src="https://raw.githubusercontent.com/MAHTOXANJALI/MAHTOANJALI/master/resources/hr.gif"/>](https://github.com/MAHTOXANJALI)
 
-<h1> <img src="[https://te.legra.ph/file/3e2dabed4c479e0842cdf.jpg](https://te.legra.ph/file/ad4e3f7bfb68de7bebe76.jpg)" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="[https://te.legra.ph/file/3e2dabed4c479e0842cdf.jpg]" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class MAHTO():
